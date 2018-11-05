@@ -1,0 +1,8 @@
+spring: 
+  datasource: 
+    url: jdbc:mysql://localhost:3306/cifi3?useSSL=false&allowPublicKeyRetrieval=true
+    username: tester
+    password: tester
+  jpa: 
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    database: MYSQL
