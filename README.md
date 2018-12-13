@@ -1,5 +1,7 @@
 #Sample Junit for RepositoryRestResource
 
+**Note:** Frozen - reference only
+
 ## Run
 
 * Ensure there is a database cifi3, if not, create it using `mysql> create database cifi3;`
